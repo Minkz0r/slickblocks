@@ -1,0 +1,1 @@
+Slickblocks is a project made in Slick2D, produced in order to be the serve as a tutorial for Slick2D.
